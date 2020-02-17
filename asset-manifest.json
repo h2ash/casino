@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/casino/static/css/main.d1b05096.chunk.css",
-    "main.js": "/casino/static/js/main.f93e2790.chunk.js",
-    "main.js.map": "/casino/static/js/main.f93e2790.chunk.js.map",
+    "main.css": "/casino/static/css/main.252ce68e.chunk.css",
+    "main.js": "/casino/static/js/main.fb0db9a0.chunk.js",
+    "main.js.map": "/casino/static/js/main.fb0db9a0.chunk.js.map",
     "runtime-main.js": "/casino/static/js/runtime-main.05c43aa7.js",
     "runtime-main.js.map": "/casino/static/js/runtime-main.05c43aa7.js.map",
-    "static/js/2.3efdfe61.chunk.js": "/casino/static/js/2.3efdfe61.chunk.js",
-    "static/js/2.3efdfe61.chunk.js.map": "/casino/static/js/2.3efdfe61.chunk.js.map",
+    "static/js/2.78748833.chunk.js": "/casino/static/js/2.78748833.chunk.js",
+    "static/js/2.78748833.chunk.js.map": "/casino/static/js/2.78748833.chunk.js.map",
     "index.html": "/casino/index.html",
-    "precache-manifest.2585e7dd8d5579f42b7824ad2edd3cc1.js": "/casino/precache-manifest.2585e7dd8d5579f42b7824ad2edd3cc1.js",
+    "precache-manifest.383d72c9a8a9239755ab6f0c84afcc61.js": "/casino/precache-manifest.383d72c9a8a9239755ab6f0c84afcc61.js",
     "service-worker.js": "/casino/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/casino/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.3efdfe61.chunk.js.LICENSE.txt": "/casino/static/js/2.3efdfe61.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/casino/static/media/logo.5d5d9eef.svg"
+    "static/css/main.252ce68e.chunk.css.map": "/casino/static/css/main.252ce68e.chunk.css.map",
+    "static/js/2.78748833.chunk.js.LICENSE.txt": "/casino/static/js/2.78748833.chunk.js.LICENSE.txt",
+    "static/media/Frame1.svg": "/casino/static/media/Frame1.a3f3218c.svg",
+    "static/media/Frame2.svg": "/casino/static/media/Frame2.16b18a15.svg",
+    "static/media/app.scss": "/casino/static/media/background.c3960e8b.jpg",
+    "static/media/girl_1.png": "/casino/static/media/girl_1.890a4bc7.png",
+    "static/media/girl_2.png": "/casino/static/media/girl_2.d769153d.png",
+    "static/media/mobile.png": "/casino/static/media/mobile.7863d8a0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.05c43aa7.js",
-    "static/js/2.3efdfe61.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.f93e2790.chunk.js"
+    "static/js/2.78748833.chunk.js",
+    "static/css/main.252ce68e.chunk.css",
+    "static/js/main.fb0db9a0.chunk.js"
   ]
 }
