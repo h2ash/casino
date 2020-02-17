@@ -1,0 +1,30 @@
+.images {
+  position: relative;
+  &--mobile {
+    z-index: 1;
+    position: relative;
+    top: 80px;
+  }
+  &--girl2 {
+    position: absolute;
+    z-index: 2;
+    left: 50px;
+  }
+  &--girl1 {
+    position: absolute;
+    z-index: 3;
+    left: 300px;
+  }
+  &--coloredDots1 {
+    position: absolute;
+    z-index: 4;
+    left: 0;
+    top: 300px;
+  }
+  &--coloredDots2 {
+    position: absolute;
+    z-index: 2;
+    left: 560px;
+    top: 500px;
+  }
+}
