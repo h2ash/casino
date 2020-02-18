@@ -1,9 +1,31 @@
 .form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   position: relative;
   top: 77px;
   background-color: $form_background;
-  opacity: 0.82;
   border-radius: 32px;
   height: 834px;
   width: 488px;
+  direction: rtl;
+  padding: 40px;
+  color: white;
+  &__logo {
+  }
+  &__heading {
+    position: relative;
+    top: 24px;
+    font-family: "Noto Sans Arabic SemCond Med";
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 31px;
+  }
+  &__advice {
+    position: relative;
+    top: 40px;
+    line-height: 20px;
+    font-family: "Noto Sans Arabic SemCond";
+    letter-spacing: 0.25px;
+  }
 }
