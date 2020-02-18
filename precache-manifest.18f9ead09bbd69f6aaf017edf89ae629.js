@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ebc6edd6641d853320b7f1b8f0aefe9",
+    "revision": "c4abf13ac15b5db7e6c2f795bb4850d8",
     "url": "/casino/index.html"
   },
   {
-    "revision": "179294ad7e00fe2069b1",
-    "url": "/casino/static/css/main.252ce68e.chunk.css"
+    "revision": "5514a25b69fbad2cf9a5",
+    "url": "/casino/static/css/main.274e18d5.chunk.css"
   },
   {
-    "revision": "9b23533da86709346eec",
-    "url": "/casino/static/js/2.78748833.chunk.js"
+    "revision": "08975bd59cfcef704135",
+    "url": "/casino/static/js/2.2670d2c9.chunk.js"
   },
   {
     "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/casino/static/js/2.78748833.chunk.js.LICENSE.txt"
+    "url": "/casino/static/js/2.2670d2c9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "179294ad7e00fe2069b1",
-    "url": "/casino/static/js/main.fb0db9a0.chunk.js"
+    "revision": "5514a25b69fbad2cf9a5",
+    "url": "/casino/static/js/main.df607236.chunk.js"
   },
   {
     "revision": "c5842f9185f1b4d40c49",
@@ -32,6 +32,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/casino/static/media/Frame2.16b18a15.svg"
   },
   {
+    "revision": "9fbebac13507b4cf9996b7950b17b9cd",
+    "url": "/casino/static/media/NotoSansArabic-SemiCondensed.9fbebac1.ttf"
+  },
+  {
+    "revision": "a2a915fbf7560f887f61c46bc1983dc3",
+    "url": "/casino/static/media/NotoSansArabic-SemiCondensedBold.a2a915fb.ttf"
+  },
+  {
+    "revision": "882692a384e3eabd8294aba12f24c972",
+    "url": "/casino/static/media/NotoSansArabic-SemiCondensedMedium.882692a3.ttf"
+  },
+  {
     "revision": "c3960e8b9a46bd455409b54d40566d0d",
     "url": "/casino/static/media/background.c3960e8b.jpg"
   },
@@ -42,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d769153d67ac321988b0353cebeaf1fe",
     "url": "/casino/static/media/girl_2.d769153d.png"
+  },
+  {
+    "revision": "b181f684f8bd94e9a9b9f41b89d699b8",
+    "url": "/casino/static/media/logo.b181f684.svg"
   },
   {
     "revision": "7863d8a05074ecf4c645942cecc0091d",
