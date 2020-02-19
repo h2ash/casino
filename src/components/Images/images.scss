@@ -3,28 +3,31 @@
   &--mobile {
     z-index: 1;
     position: relative;
-    top: 80px;
+    top: 150px;
+    right: 24px;
   }
   &--girl2 {
     position: absolute;
     z-index: 2;
-    left: 50px;
+    left: 40px;
+    top: -10px;
   }
   &--girl1 {
     position: absolute;
     z-index: 3;
-    left: 300px;
+    left: 288px;
+    top: 60px;
   }
   &--coloredDots1 {
     position: absolute;
     z-index: 4;
     left: 0;
-    top: 300px;
+    top: 354px;
   }
   &--coloredDots2 {
     position: absolute;
     z-index: 2;
-    left: 560px;
-    top: 500px;
+    left: 544px;
+    top: 574px;
   }
 }

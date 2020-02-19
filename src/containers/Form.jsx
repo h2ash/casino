@@ -5,29 +5,31 @@ const Form = () => (
   <div className="form">
     <img src={logo} alt="logo" />
     <h1 className="form__heading">م	حباً، يس	ا لقاؤك</h1>
-    <span className="form__advice"> ﻣﻦ ﺧﺒﺮاﺋﻨﺎ؟ اﺗﺮك ﺗﻔﺎﺻﻴﻠﻚ ﻫﻨﺎ، وﺳﻮف ﻳﻘﻮم ﻣﻨﺪوﺑﻨﺎ ﺑﺎﻟﺮد ﻋﻠﻚﻴ
-ﻫﻞ ﺗﺮﻳﺪ ﻧﺼﺎﺋﺢ ﻣﻔﻴﺪة
+    <span className="form__advice">
+     هل تريد نصائح مفيدة من خبرائنا؟ اترك تفاصيلك هنا، وسوف يقوم مندوبنا بالرد عليك
     </span>
     <form action="">
       <label>
-      الكنية
+      <span className="form__label-text">الكنية</span>
         <input placeholder="الكنية" type="text"/>
       </label>
       <label>
-      الكنية
+      <span className="form__label-text">الكنية</span>
         <input placeholder="الكنية" type="text"/>
       </label>
       <label>
-      الكنية
+      <span className="form__label-text">الكنية</span>
         <input placeholder="الكنية" type="text"/>
       </label>
 
       <label>
         <input type="checkbox" /> 
         <span className="form__styled-checkbox"></span>
-        و طوﺮﺸﻟا ﻰﻠﻋ ﻖﻓاوأ ، ﻊﺑﺮﻤﻟا اﺬﻫ ﺪﻳﺪﺤﺗ ﻖﻳﺮﻃ ﻦﻋ <br />
-        * .اًمﺎﻋ 18 يﺮﻤﻋ ﻦﻣ ﺮﺜﻛأ ﺪﻴﻛﺄﺘﻟاو ﺔﻴﺻﻮﺼﺨﻟا ﺔﺳﺎﻴﺳو طوﺮﺸﻟا
-        <span className="form__permission-text"> ﻲﻧوﺮﺘﻜﻟﺈﻟا ﺪﻳﺮﺒﻟا ﺮﺒﻋ ﺔﻴﻘﻳﻮﺴﺗ ﻞﺋﺎﺳر ﻢﻠﺴﺘﺑ نذﺈﻟا ﻲﻄﻋُأ ﺎﻧأ</span>
+        <span className="form__text-checkbox">عن طريق تحديد هذا المربع ، أوافق على الشروط و<br />
+         الشروط وسياسة الخصوصية والتأكيد أكثر من عمري 18 عامًا. *</span>
+        <span className="form__permission-text">
+        أنا أُعطي الإذن بتسلم رسائل تسويقية عبر البريد الإلكتروني
+        </span>
       </label>
       <button className="form__button">سجل</button>
     </form>
