@@ -23,6 +23,8 @@
     z-index: 4;
     left: 0;
     top: 354px;
+    transform: scale(2, 2);
+    transition: transform 1s linear 1s;
   }
   &--coloredDots2 {
     position: absolute;
@@ -41,6 +43,28 @@
   animation-timing-function: linear;
   animation-iteration-count: infinite;
   -webkit-animation-iteration-count: infinite;
+}
+.increase-balls {
+  -webkit-animation-name: increase-balls;
+  animation-name: increase-balls;
+}
+@keyframes increase-balls {
+  0%,
+  100% {
+    transform: scale(1, 1);
+  }
+  50% {
+    transform: scale(1.15, 1.15);
+  }
+}
+@-webkit-keyframes increase-balls {
+  0%,
+  100% {
+    -webkit-transform: scale(1, 1);
+  }
+  50% {
+    -webkit-transform: scale(1.15, 1.15);
+  }
 }
 .bounce {
   -webkit-animation-name: bounce;

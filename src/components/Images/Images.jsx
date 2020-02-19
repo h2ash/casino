@@ -10,8 +10,8 @@ const Images = () => (
     <img className="images--mobile" src={mobile} alt="mobile_background" />
     <img className="images--girl2 animated bounce" src={girl2} alt="girl 2" />
     <img className="images--girl1 animated bounce" src={girl1} alt="girl 1" />
-    <img className="images--coloredDots1" src={Frame1} alt="colored dots 1" />
-    <img className="images--coloredDots2" src={Frame2} alt="colored dots 2" />
+    <img className="images--coloredDots1 animated increase-balls" src={Frame1} alt="colored dots 1" />
+    <img className="images--coloredDots2 animated increase-balls" src={Frame2} alt="colored dots 2" />
   </div>
 );
 
