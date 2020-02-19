@@ -1,8 +1,9 @@
 @import "./utils/reset";
 @import './utils/vars';
 @import '../containers/form';
-@import '../components/images';
+@import '../components/Images/images';
 @import './utils/fonts';
+@import '../components/Footer/footer.scss';
 
 .background {
   background: url('../images/background.jpg');

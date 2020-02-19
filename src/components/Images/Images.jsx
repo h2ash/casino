@@ -1,9 +1,9 @@
 import React from 'react';
-import mobile from '../images/mobile.png';
-import girl2 from '../images/girl_2.png';
-import girl1 from '../images/girl_1.png';
-import Frame1 from '../images/Frame1.svg';
-import Frame2 from '../images/Frame2.svg';
+import mobile from '../../images/mobile.png';
+import girl2 from '../../images/girl_2.png';
+import girl1 from '../../images/girl_1.png';
+import Frame1 from '../../images/Frame1.svg';
+import Frame2 from '../../images/Frame2.svg';
 
 const Images = () => (
   <div className="images">

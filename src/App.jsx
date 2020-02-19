@@ -1,15 +1,17 @@
 import React from 'react';
 import './styles/app.scss';
-import Images from './components/Images';
+import Images from './components/Images/Images';
 import Form from './containers/Form.jsx';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
     <div className="background">
-      <div className="wrapper">
-        <Images />
-        <Form />
-      </div>
+        <main className="wrapper">
+          <Images />
+          <Form />
+        </main>
+        <Footer />
     </div>
   );
 }
