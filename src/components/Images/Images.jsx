@@ -8,8 +8,8 @@ import Frame2 from '../../images/Frame2.svg';
 const Images = () => (
   <div className="images">
     <img className="images--mobile" src={mobile} alt="mobile_background" />
-    <img className="images--girl2" src={girl2} alt="girl 2" />
-    <img className="images--girl1" src={girl1} alt="girl 1" />
+    <img className="images--girl2 animated bounce" src={girl2} alt="girl 2" />
+    <img className="images--girl1 animated bounce" src={girl1} alt="girl 1" />
     <img className="images--coloredDots1" src={Frame1} alt="colored dots 1" />
     <img className="images--coloredDots2" src={Frame2} alt="colored dots 2" />
   </div>
