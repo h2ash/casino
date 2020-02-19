@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4abf13ac15b5db7e6c2f795bb4850d8",
+    "revision": "5be16fe1099e6475d7eb306fd8dab013",
     "url": "/casino/index.html"
   },
   {
-    "revision": "5514a25b69fbad2cf9a5",
-    "url": "/casino/static/css/main.274e18d5.chunk.css"
+    "revision": "8a38aa0e30bff0a14975",
+    "url": "/casino/static/css/main.704d9e77.chunk.css"
   },
   {
     "revision": "08975bd59cfcef704135",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/casino/static/js/2.2670d2c9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5514a25b69fbad2cf9a5",
-    "url": "/casino/static/js/main.df607236.chunk.js"
+    "revision": "8a38aa0e30bff0a14975",
+    "url": "/casino/static/js/main.53a10306.chunk.js"
   },
   {
     "revision": "c5842f9185f1b4d40c49",
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b181f684f8bd94e9a9b9f41b89d699b8",
     "url": "/casino/static/media/logo.b181f684.svg"
+  },
+  {
+    "revision": "65b93eb7d346735229e90f7c73cf3394",
+    "url": "/casino/static/media/mark.65b93eb7.svg"
   },
   {
     "revision": "7863d8a05074ecf4c645942cecc0091d",

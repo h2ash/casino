@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/casino/static/css/main.274e18d5.chunk.css",
-    "main.js": "/casino/static/js/main.df607236.chunk.js",
-    "main.js.map": "/casino/static/js/main.df607236.chunk.js.map",
+    "main.css": "/casino/static/css/main.704d9e77.chunk.css",
+    "main.js": "/casino/static/js/main.53a10306.chunk.js",
+    "main.js.map": "/casino/static/js/main.53a10306.chunk.js.map",
     "runtime-main.js": "/casino/static/js/runtime-main.05c43aa7.js",
     "runtime-main.js.map": "/casino/static/js/runtime-main.05c43aa7.js.map",
     "static/js/2.2670d2c9.chunk.js": "/casino/static/js/2.2670d2c9.chunk.js",
     "static/js/2.2670d2c9.chunk.js.map": "/casino/static/js/2.2670d2c9.chunk.js.map",
     "index.html": "/casino/index.html",
-    "precache-manifest.18f9ead09bbd69f6aaf017edf89ae629.js": "/casino/precache-manifest.18f9ead09bbd69f6aaf017edf89ae629.js",
+    "precache-manifest.a9245bbbb1bbad76acf9ec3a14ae31a9.js": "/casino/precache-manifest.a9245bbbb1bbad76acf9ec3a14ae31a9.js",
     "service-worker.js": "/casino/service-worker.js",
-    "static/css/main.274e18d5.chunk.css.map": "/casino/static/css/main.274e18d5.chunk.css.map",
+    "static/css/main.704d9e77.chunk.css.map": "/casino/static/css/main.704d9e77.chunk.css.map",
     "static/js/2.2670d2c9.chunk.js.LICENSE.txt": "/casino/static/js/2.2670d2c9.chunk.js.LICENSE.txt",
     "static/media/Frame1.svg": "/casino/static/media/Frame1.a3f3218c.svg",
     "static/media/Frame2.svg": "/casino/static/media/Frame2.16b18a15.svg",
-    "static/media/app.scss": "/casino/static/media/background.c3960e8b.jpg",
+    "static/media/app.scss": "/casino/static/media/mark.65b93eb7.svg",
     "static/media/girl_1.png": "/casino/static/media/girl_1.890a4bc7.png",
     "static/media/girl_2.png": "/casino/static/media/girl_2.d769153d.png",
     "static/media/logo.svg": "/casino/static/media/logo.b181f684.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.05c43aa7.js",
     "static/js/2.2670d2c9.chunk.js",
-    "static/css/main.274e18d5.chunk.css",
-    "static/js/main.df607236.chunk.js"
+    "static/css/main.704d9e77.chunk.css",
+    "static/js/main.53a10306.chunk.js"
   ]
 }
